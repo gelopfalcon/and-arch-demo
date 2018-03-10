@@ -1,0 +1,7 @@
+
+
+<resources>
+    <string name="app_name">Arch Android workshop</string>
+    <string name="seconds">%d seconds elapsed</string>
+    <string name="location">Location</string>
+</resources>
